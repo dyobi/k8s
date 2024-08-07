@@ -27,7 +27,7 @@
 
 ## Default Setting
 
-> One master node & Two worker node
+> One master node & Two worker nodes
 
 > Master Node IP : 172.16.16.100
 
